@@ -8,4 +8,7 @@ public static void main(String[] args) {
 	
 	System.out.println(c);
 }
+public int testone(int a, int b) {
+return a-b;
+}
 }
