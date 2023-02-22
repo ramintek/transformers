@@ -3,8 +3,7 @@ package test;
 public class GitPractaceTwo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("this is for push practace");
 	}
 
 }
